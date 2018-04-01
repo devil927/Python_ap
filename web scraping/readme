@@ -1,2 +1,7 @@
 WEB SCRAPING
             Basically web scraping is a part of data analyis and data visualisation. We visualize the data and scrap out some important information/data that is required based on some analysis
+
+
+Web driver 
+    Inspite of web driver we can use requests modulw of python but for large amount of data its good for us to use web drivers
+    PhantomJs is beetter than Chrome due to regulaar pop up of chrome while using web driver
