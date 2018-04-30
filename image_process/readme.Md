@@ -1,3 +1,3 @@
 Image Processing
 
-Basically this program is to implement image processing
+Basically these program are used to implement various purposes using the idea image processing
