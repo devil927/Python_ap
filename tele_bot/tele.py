@@ -7,7 +7,7 @@ from emoji import emojize
 
 # Updater for updation of given token
 
-update = Updater(token='523770657:AAG5zwwjDthY1wOOXSk9qUMdyXAVjp2oRz8')
+update = Updater(token='TOKEN')
 
 # Dispatcher
 disp = update.dispatcher
