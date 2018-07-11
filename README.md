@@ -7,7 +7,7 @@ Its Gui based calculater for calculations
 # counter.py
 Gui based counter
 
-# Coin.py  ->
+# Coin.py  
  Its basically an Gui based application for top 5 cyrptocurrency data extractor and visualizer using tkinter and api
  
  # Ceaser.py 
